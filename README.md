@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 数据库：无
 - 数据存储服务：无
 2. **网页在线体验地址**
-* [smallpig.site](https://www.yizhizimei.top)
+* [my web site](https://www.yizhizimei.top)
 
 持续更新中...
 
