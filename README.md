@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hacker233&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zimei11&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### 你好，我是子美
 
-![](https://visitor-badge.glitch.me/badge?page_id=hacker233.readme)
+![](https://visitor-badge.glitch.me/badge?page_id=zimei11.readme)
 
 - :smile:  知乎 : [会飞的猪](https://www.zhihu.com/people/luhongquan)
 - :blowfish:  哔哩哔哩 : [会飞的猪](https://space.bilibili.com/493520625)
@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 
 **:pushpin: 网站导航项目**
 1. **技术栈介绍**
-- 前端：Vue2.x + Elemenu-ui + scss
-- 后端：Express + Node.Js
-- 数据库：MongoDB
-- 数据存储服务：minio
+- 前端：html
+- 后端：javase
+- 数据库：无
+- 数据存储服务：无
 2. **项目地址**
 * 前端项目地址 : [navigation](https://github.com/Hacker233/navigation)
 * 后台项目地址 : [navigation-serve](https://github.com/Hacker233/navigation-serve)
