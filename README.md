@@ -35,8 +35,11 @@ Here are some ideas to get you started:
 - 后端：javase
 - 数据库：无
 - 数据存储服务：无
-2. **网页在线体验地址**
+2. **网页在线体验与项目地址**
 * [my web site](https://www.yizhizimei.top)
+* [代码](https://github.com/zimei11/zimei11.github.io)
+* [my picture bed](https://youwozimei.gitee.io/picture-bed/)
+* [代码](https://gitee.com/youwozimei/picture-bed)
 
 持续更新中...
 
