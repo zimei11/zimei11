@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 **:pushpin: 网站导航项目**
 1. **技术栈介绍**
 - 前端：html
-- 后端：javase
-- 数据库：无
+- 后端：java,c++
+- 数据库：sql server2012,mysql
 - 数据存储服务：无
 2. **网页在线体验与项目地址**
 * [my web site](https://www.yizhizimei.top)
