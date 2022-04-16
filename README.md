@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ![](http://antzuhl.cn:4000/get/@zimei11.readme)
 
 - :smile:  CSDN : [一只子美](https://blog.csdn.net/m0_51242575?spm=1000.2115.3001.5343&type=blog)
+- :blowfish:  个人知识库 : [一只子美](https://www.zimei.xyz)
 <!-- 
 - :blowfish:  哔哩哔哩 : [一只子美](https://b23.tv/7YZvJV)
 - :bath: 微信公众号 : [一只子美](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyNDI4OTc1OA==&scene=124&uin=&key=&devicetype=Windows+10+x64&version=63030532&lang=zh_CN&a8scene=7&fontgear=2) 
