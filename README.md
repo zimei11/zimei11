@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zimei11&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### 你好，我是子美
+**一只在校大学生，热爱开源，乐于分享**
 
 ![](https://visitor-badge.glitch.me/badge?page_id=zimei11.readme)
 
@@ -35,15 +36,12 @@ Here are some ideas to get you started:
 
 **:pushpin: 网站导航项目**
 1. **技术栈介绍**
-- 前端：html
-- 后端：javase,javaweb,c++入门
-- 数据库：sql server2012,mysql
-- 数据存储服务：无
-2. **网页在线体验与项目地址**
-* [my web site](https://www.yizhizimei.top)
-* [代码](https://github.com/zimei11/zimei11.github.io)
-* [my picture bed](https://youwozimei.gitee.io/picture-bed/)
-* [代码](https://gitee.com/youwozimei/picture-bed)
+- 前端：HTML CSS
+- 后端：JavaSE  JavaWeb  C++
+- 数据库：SQL Server2012,MySQL
+2. **网页在线体验址**
+
+* [my knowledge base](https://www.zimei.xyz)
 
 持续更新中...
 
