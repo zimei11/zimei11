@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 1. **技术栈介绍**
 - 前端：HTML CSS
 - 后端：JavaSE  JavaWeb  C++
-- 数据库：SQL Server2012,MySQL
+- 数据库：SQL Server2012  MySQL
 2. **网页在线体验址**
 
 * [my knowledge base](https://www.zimei.xyz)
