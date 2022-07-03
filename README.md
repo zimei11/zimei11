@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 -->
 
 **技术栈介绍**
-- 前端：HTML CSS
+- 前端：三件套 Vue.js
 - 后端：JavaSE  JavaWeb  C++
 - 数据库：SQL Server  MySQL
 
