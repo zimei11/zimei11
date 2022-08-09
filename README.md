@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?pause=500&lines=Hi+there+%F0%9F%91%8B;I'm+zimei)](https://git.io/typing-svg)
 
 <!--
 **zimei11/zimei11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
