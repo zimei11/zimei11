@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=zimei11.readme)
 
 - :smile:  CSDN : [一只子美](https://blog.csdn.net/m0_51242575?spm=1000.2115.3001.5343&type=blog)
-- :blowfish:  个人知识库 : [子美](https://www.zimei.xyz)
 - :bath: 博客园 : [一只子美](https://www.cnblogs.com/zimei/)
 - 🎈 &nbsp;AI博弈平台：[robs.zimei](https://www.zimei.fun/)
 <!-- 
