@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - :smile:  CSDN : [一只子美](https://blog.csdn.net/m0_51242575?spm=1000.2115.3001.5343&type=blog)
 - :blowfish:  个人知识库 : [子美](https://www.zimei.xyz)
 - :bath: 博客园 : [一只子美](https://www.cnblogs.com/zimei/)
+- 🎈 &nbsp;AI博弈平台：[robs.zimei](https://www.zimei.fun/)
 <!-- 
 - :blowfish:  哔哩哔哩 : [一只子美](https://b23.tv/7YZvJV)
 - :bath: 微信公众号 : [一只子美](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyNDI4OTc1OA==&scene=124&uin=&key=&devicetype=Windows+10+x64&version=63030532&lang=zh_CN&a8scene=7&fontgear=2) 
