@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zimei11&theme=prussian&show_icons=true&count_private=true&hide=contribs,issues" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zimei11&layout=compact&theme=algolia&hide=html,css,JavaScript" />
+<!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zimei11&layout=compact&theme=algolia&hide=html,css,JavaScript" />-->
 
 ### 你好，我是子美
 **一只在校大学生，热爱开源，乐于分享**
