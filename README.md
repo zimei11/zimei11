@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zimei11&theme=prussian&show_icons=true&count_private=true&hide=contribs,issues" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=zimei11&theme=prussian&show_icons=true&count_private=true&hide=contribs,issues" />-->
 
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zimei11&layout=compact&theme=algolia&hide=html,css,JavaScript" />-->
 
@@ -24,15 +24,16 @@ Here are some ideas to get you started:
 
 ![](https://visitor-badge.glitch.me/badge?page_id=zimei11.readme)
 
-- :smile:  CSDN : [一只子美](https://blog.csdn.net/m0_51242575?spm=1000.2115.3001.5343&type=blog)
+<!-- - :smile:  CSDN : [一只子美](https://blog.csdn.net/m0_51242575?spm=1000.2115.3001.5343&type=blog) -->
 - :bath: 博客园 : [一只子美](https://www.cnblogs.com/zimei/)
-- 🎈 &nbsp;AI博弈平台：[robs.zimei](https://www.zimei.fun/)
+<!-- - 🎈 &nbsp;AI博弈平台：[robs.zimei](https://www.zimei.fun/) -->
 <!-- 
-- :blowfish:  哔哩哔哩 : [一只子美](https://b23.tv/7YZvJV)
-- :bath: 微信公众号 : [一只子美](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyNDI4OTc1OA==&scene=124&uin=&key=&devicetype=Windows+10+x64&version=63030532&lang=zh_CN&a8scene=7&fontgear=2) 
+<!-- - :blowfish:  哔哩哔哩 : [一只子美](https://b23.tv/7YZvJV) -->
+<!-- - :bath: 微信公众号 : [一只子美](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyNDI4OTc1OA==&scene=124&uin=&key=&devicetype=Windows+10+x64&version=63030532&lang=zh_CN&a8scene=7&fontgear=2) 
 -->
 
 **技术栈介绍**
+- AI: AI Infra
 - 前端：三件套 Vue.js
 - 后端：JavaSE  JavaWeb SpringBoot C++  Linux
 - 数据库：SQLServer  MySQL
