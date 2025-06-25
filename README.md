@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=zimei11&theme=prussian&show_icons=true&count_private=true&hide=contribs,issues" />-->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zimei11&theme=prussian&show_icons=true&count_private=true&hide=contribs,issues" />
 
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zimei11&layout=compact&theme=algolia&hide=html,css,JavaScript" />-->
 
 ### 你好，我是子美
 **一只在校大学生，热爱开源，乐于分享**
 
-![](https://visitor-badge.glitch.me/badge?page_id=zimei11.readme)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=zimei11.readme) -->
 
 <!-- - :smile:  CSDN : [一只子美](https://blog.csdn.net/m0_51242575?spm=1000.2115.3001.5343&type=blog) -->
 - :bath: 博客园 : [一只子美](https://www.cnblogs.com/zimei/)
